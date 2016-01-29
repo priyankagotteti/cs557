@@ -31,7 +31,7 @@ devices are blurring even these lines.
 <p>Hi <sup>Hello World !!</sup></p>
 <p><del>Hello World !!</del></p>
 <br>
-<a href="file:///C:/Users/umanagarjuna/Desktop/table.html">Table page</a>
+<a href="Dropbox/Apps/Heroku/cs-557/table.html">Table page</a>
 <br>
 <br>
 <a href="#">Top</a>
